@@ -1,5 +1,4 @@
 # alu-smiling-school
-![logo-white](https://github.com/Mahiuha/alx-smiling-school/assets/35099243/f4abe9de-d75e-4141-bed3-f9e8cd254218)
 > Implementing a design with bootstrap
 
 
@@ -25,5 +24,4 @@ The objective is simple: Have a fully functional web page that looks the same as
 
 ---
 
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) - [twitter:speech_balloon:](https://twitter.com/Joseph_Mahiuha)
+
