@@ -1,4 +1,4 @@
-# alx-smiling-school
+# alu-smiling-school
 ![logo-white](https://github.com/Mahiuha/alx-smiling-school/assets/35099243/f4abe9de-d75e-4141-bed3-f9e8cd254218)
 > Implementing a design with bootstrap
 
